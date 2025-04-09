@@ -1,2 +1,3 @@
-# template
-Short description
+# Template Repo
+
+A short description goes here.
